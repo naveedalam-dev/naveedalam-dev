@@ -157,7 +157,7 @@ I'm a **passionate Full-Stack Developer & UI/UX Designer** with **6+ years of ex
 <div style="display: flex; align-items: center; background: rgba(0,0,0,0.3); border-radius: 10px; padding: 12px; transition: all 0.3s ease;">
   <span style="margin-right: 12px;">📜</span>
   <span style="flex: 1; color: #e5e7eb; font-weight: 500;">CERTIFICATE 1</span>
-  <a href="https://coursera.org/share/32640bacc7d58243cfb785b087b7fe2a" target="_blank" style="background: #4285f4; color: white; padding: 6px 16px; border-radius: 6px; text-decoration: none; font-size: 12px; font-weight: bold; transition: all 0.3s ease;">VIEW CREDENTIAL</a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/MGVC9DDF676B" target="_blank" style="background: #4285f4; color: white; padding: 6px 16px; border-radius: 6px; text-decoration: none; font-size: 12px; font-weight: bold; transition: all 0.3s ease;">VIEW CREDENTIAL</a>
 </div>
 
 <div style="display: flex; align-items: center; background: rgba(0,0,0,0.3); border-radius: 10px; padding: 12px; transition: all 0.3s ease;">
