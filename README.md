@@ -139,47 +139,80 @@ I'm a **passionate Full-Stack Developer & UI/UX Designer** with **6+ years of ex
 
 ## 🎓 Certifications & Learning
 
-<div align="center" style="animation: fadeInUp 0.8s ease-out;">
+<div align="center">
 
-### Professional Certificates
+<div style="background: linear-gradient(135deg, #1e1b4b 0%, #312e81 100%); border-radius: 20px; padding: 40px; margin: 20px 0; box-shadow: 0 20px 40px rgba(0,0,0,0.3); border: 1px solid #374151;">
 
-<table style="animation: slideInFromBottom 1s ease-out 0.2s both;">
-<tr>
-<td align="center" width="50%" style="animation: fadeInLeft 1.2s ease-out 0.4s both;">
+### 🎓 Professional Certificates
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 30px; margin-top: 30px;">
+
+<!-- Left Card: Coursera Verified Certificates -->
+<div style="background: rgba(255,255,255,0.05); border-radius: 15px; padding: 25px; border: 1px solid rgba(255,255,255,0.1); backdrop-filter: blur(10px);">
 
 **🏆 Coursera Verified Certificates**
 
-<div style="animation: bounceIn 1.5s ease-out 0.6s both;">
+<div style="margin-top: 20px; display: flex; flex-direction: column; gap: 12px;">
 
-[![Certificate 1](https://img.shields.io/badge/📜_Certificate_1-View_Credential-4285f4?style=for-the-badge&logo=coursera&logoColor=white&animation=pulse)](https://coursera.org/share/32640bacc7d58243cfb785b087b7fe2a)
+<div style="display: flex; align-items: center; background: rgba(0,0,0,0.3); border-radius: 10px; padding: 12px; transition: all 0.3s ease;">
+  <span style="margin-right: 12px;">📜</span>
+  <span style="flex: 1; color: #e5e7eb; font-weight: 500;">CERTIFICATE 1</span>
+  <a href="https://coursera.org/share/32640bacc7d58243cfb785b087b7fe2a" target="_blank" style="background: #4285f4; color: white; padding: 6px 16px; border-radius: 6px; text-decoration: none; font-size: 12px; font-weight: bold; transition: all 0.3s ease;">VIEW CREDENTIAL</a>
+</div>
 
-[![Certificate 2](https://img.shields.io/badge/📜_Certificate_2-View_Credential-4285f4?style=for-the-badge&logo=coursera&logoColor=white&animation=pulse)](https://coursera.org/share/51d1b1053f9ceacf07f21867851bbe8e)
+<div style="display: flex; align-items: center; background: rgba(0,0,0,0.3); border-radius: 10px; padding: 12px; transition: all 0.3s ease;">
+  <span style="margin-right: 12px;">📜</span>
+  <span style="flex: 1; color: #e5e7eb; font-weight: 500;">CERTIFICATE 2</span>
+  <a href="https://coursera.org/share/51d1b1053f9ceacf07f21867851bbe8e" target="_blank" style="background: #4285f4; color: white; padding: 6px 16px; border-radius: 6px; text-decoration: none; font-size: 12px; font-weight: bold; transition: all 0.3s ease;">VIEW CREDENTIAL</a>
+</div>
 
-[![Certificate 3](https://img.shields.io/badge/📜_Certificate_3-View_Credential-4285f4?style=for-the-badge&logo=coursera&logoColor=white&animation=pulse)](https://coursera.org/share/e1c537c93c0044ede3f72a78a9b131fc)
+<div style="display: flex; align-items: center; background: rgba(0,0,0,0.3); border-radius: 10px; padding: 12px; transition: all 0.3s ease;">
+  <span style="margin-right: 12px;">📜</span>
+  <span style="flex: 1; color: #e5e7eb; font-weight: 500;">CERTIFICATE 3</span>
+  <a href="https://coursera.org/share/e1c537c93c0044ede3f72a78a9b131fc" target="_blank" style="background: #4285f4; color: white; padding: 6px 16px; border-radius: 6px; text-decoration: none; font-size: 12px; font-weight: bold; transition: all 0.3s ease;">VIEW CREDENTIAL</a>
+</div>
 
 </div>
 
-</td>
-<td align="center" width="50%" style="animation: fadeInRight 1.2s ease-out 0.4s both;">
+</div>
+
+<!-- Right Card: Specialized Training -->
+<div style="background: rgba(255,255,255,0.05); border-radius: 15px; padding: 25px; border: 1px solid rgba(255,255,255,0.1); backdrop-filter: blur(10px);">
 
 **🎯 Specialized Training**
 
-<div style="animation: bounceIn 1.5s ease-out 0.8s both;">
+<div style="margin-top: 20px; display: flex; flex-direction: column; gap: 12px;">
 
-[![Certificate 4](https://img.shields.io/badge/📜_Certificate_4-View_Credential-4285f4?style=for-the-badge&logo=coursera&logoColor=white&animation=pulse)](https://coursera.org/share/6607e693e7484cbdb888af70fc925d6f)
+<div style="display: flex; align-items: center; background: rgba(0,0,0,0.3); border-radius: 10px; padding: 12px; transition: all 0.3s ease;">
+  <span style="margin-right: 12px;">📜</span>
+  <span style="flex: 1; color: #e5e7eb; font-weight: 500;">CERTIFICATE 4</span>
+  <a href="https://coursera.org/share/6607e693e7484cbdb888af70fc925d6f" target="_blank" style="background: #4285f4; color: white; padding: 6px 16px; border-radius: 6px; text-decoration: none; font-size: 12px; font-weight: bold; transition: all 0.3s ease;">VIEW CREDENTIAL</a>
+</div>
 
-[![Certificate 5](https://img.shields.io/badge/📜_Certificate_5-View_Credential-4285f4?style=for-the-badge&logo=coursera&logoColor=white&animation=pulse)](https://coursera.org/share/16336c0d68743ad9583a94effd8d41b8)
+<div style="display: flex; align-items: center; background: rgba(0,0,0,0.3); border-radius: 10px; padding: 12px; transition: all 0.3s ease;">
+  <span style="margin-right: 12px;">📜</span>
+  <span style="flex: 1; color: #e5e7eb; font-weight: 500;">CERTIFICATE 5</span>
+  <a href="https://coursera.org/share/16336c0d68743ad9583a94effd8d41b8" target="_blank" style="background: #4285f4; color: white; padding: 6px 16px; border-radius: 6px; text-decoration: none; font-size: 12px; font-weight: bold; transition: all 0.3s ease;">VIEW CREDENTIAL</a>
+</div>
 
-[![Certificate 6](https://img.shields.io/badge/📜_Certificate_6-View_Credential-4285f4?style=for-the-badge&logo=coursera&logoColor=white&animation=pulse)](https://coursera.org/share/36d55a0031aac4b67bf3b8b03298413b)
+<div style="display: flex; align-items: center; background: rgba(0,0,0,0.3); border-radius: 10px; padding: 12px; transition: all 0.3s ease;">
+  <span style="margin-right: 12px;">📜</span>
+  <span style="flex: 1; color: #e5e7eb; font-weight: 500;">CERTIFICATE 6</span>
+  <a href="https://coursera.org/share/36d55a0031aac4b67bf3b8b03298413b" target="_blank" style="background: #4285f4; color: white; padding: 6px 16px; border-radius: 6px; text-decoration: none; font-size: 12px; font-weight: bold; transition: all 0.3s ease;">VIEW CREDENTIAL</a>
+</div>
 
 </div>
 
-</td>
-</tr>
-</table>
+</div>
 
-<div style="animation: fadeInUp 1.8s ease-out 1s both;">
-  <p><em>🎓 Committed to continuous learning and professional development</em></p>
+</div>
+
+<div style="margin-top: 30px; text-align: center;">
+  <p style="color: #a855f7; font-style: italic; font-size: 16px; margin: 0;">
+    🎓 <em>Committed to continuous learning and professional development</em>
+  </p>
+</div>
+
 </div>
 
 </div>
