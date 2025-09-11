@@ -1,22 +1,69 @@
 <!-- Profile Header -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=I'm+Naveed+Alam;-Full+Stack+Developer+%7C+UI%2FUX+Designer+%7C+AI+Enthusiast" alt="Typing SVG" />
+  
+  <!-- Confetti Animation Trigger -->
+  <div style="position: relative; display: inline-block; margin-top: 20px;">
+    <div id="confetti-container" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; pointer-events: none; overflow: hidden;">
+      <div class="confetti" style="position: absolute; width: 10px; height: 10px; background: #ff6b6b; animation: confetti-fall 3s linear infinite; animation-delay: 0s;"></div>
+      <div class="confetti" style="position: absolute; width: 8px; height: 8px; background: #4ecdc4; animation: confetti-fall 3s linear infinite; animation-delay: 0.5s;"></div>
+      <div class="confetti" style="position: absolute; width: 6px; height: 6px; background: #45b7d1; animation: confetti-fall 3s linear infinite; animation-delay: 1s;"></div>
+      <div class="confetti" style="position: absolute; width: 12px; height: 12px; background: #f9ca24; animation: confetti-fall 3s linear infinite; animation-delay: 1.5s;"></div>
+      <div class="confetti" style="position: absolute; width: 9px; height: 9px; background: #6c5ce7; animation: confetti-fall 3s linear infinite; animation-delay: 2s;"></div>
+      <div class="confetti" style="position: absolute; width: 7px; height: 7px; background: #a29bfe; animation: confetti-fall 3s linear infinite; animation-delay: 2.5s;"></div>
+    </div>
+  </div>
+  
+  <style>
+    @keyframes confetti-fall {
+      0% {
+        transform: translateY(-100vh) rotate(0deg);
+        opacity: 1;
+      }
+      100% {
+        transform: translateY(100vh) rotate(720deg);
+        opacity: 0;
+      }
+    }
+    
+    @keyframes confetti-celebration {
+      0% {
+        transform: scale(0) rotate(0deg);
+        opacity: 0;
+      }
+      50% {
+        transform: scale(1.2) rotate(180deg);
+        opacity: 1;
+      }
+      100% {
+        transform: scale(1) rotate(360deg);
+        opacity: 1;
+      }
+    }
+    
+    .confetti:nth-child(1) { left: 10%; animation-delay: 0s; }
+    .confetti:nth-child(2) { left: 20%; animation-delay: 0.3s; }
+    .confetti:nth-child(3) { left: 30%; animation-delay: 0.6s; }
+    .confetti:nth-child(4) { left: 40%; animation-delay: 0.9s; }
+    .confetti:nth-child(5) { left: 60%; animation-delay: 1.2s; }
+    .confetti:nth-child(6) { left: 80%; animation-delay: 1.5s; }
+  </style>
 </div>
 
 <h3 align="center">🚀 Crafting Digital Experiences That Matter</h3>
 
 <p align="center">
   <a href="https://naveedalam.dev" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-naveedalam.dev-6366f1?style=for-the-badge&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-naveedalam.dev-6366f1?style=for-the-badge&logoColor=white" alt="Portfolio" style="animation: confetti-celebration 2s ease-in-out infinite alternate;" />
   </a>
   <a href="mailto:contact@naveedalam.dev">
-    <img src="https://img.shields.io/badge/📧_Email-contact@naveedalam.dev-ef4444?style=for-the-badge&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/📧_Email-contact@naveedalam.dev-ef4444?style=for-the-badge&logoColor=white" alt="Email" style="animation: confetti-celebration 2s ease-in-out infinite alternate 0.5s;" />
   </a>
   <a href="https://linkedin.com/in/naveedalam-dev" target="_blank">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="animation: confetti-celebration 2s ease-in-out infinite alternate 1s;" />
   </a>
   <a href="https://x.com/naveedalam_dev" target="_blank">
-    <img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="animation: confetti-celebration 2s ease-in-out infinite alternate 1.5s;" />
   </a>
 </p>
 
@@ -209,7 +256,17 @@ I'm a **passionate Full-Stack Developer & UI/UX Designer** with **6+ years of ex
 
 <div style="margin-top: 30px; text-align: center;">
   <p style="color: #a855f7; font-style: italic; font-size: 16px; margin: 0;">
-    🎓 <em>Committed to continuous learning and professional development</em>
+    🎓 <em style="animation: confetti-celebration 3s ease-in-out infinite;">Committed to continuous learning and professional development</em>
+    
+    <!-- Special Achievement Confetti -->
+    <div style="position: relative; display: inline-block; margin-left: 10px;">
+      <span style="font-size: 20px; animation: confetti-celebration 2s ease-in-out infinite;">🎉</span>
+      <div style="position: absolute; top: -20px; left: 50%; transform: translateX(-50%); pointer-events: none;">
+        <div style="width: 4px; height: 4px; background: #ff6b6b; border-radius: 50%; animation: confetti-fall 2s linear infinite;"></div>
+        <div style="width: 4px; height: 4px; background: #4ecdc4; border-radius: 50%; animation: confetti-fall 2s linear infinite 0.3s; margin-left: 10px;"></div>
+        <div style="width: 4px; height: 4px; background: #f9ca24; border-radius: 50%; animation: confetti-fall 2s linear infinite 0.6s; margin-left: -5px;"></div>
+      </div>
+    </div>
   </p>
 </div>
 
@@ -238,5 +295,19 @@ I'm a **passionate Full-Stack Developer & UI/UX Designer** with **6+ years of ex
 
 <div align="center">
   <p><em>⭐️ If you find my work interesting, please consider giving a star to my repositories!</em></p>
-  <p><strong>Let's build something amazing together! 🚀</strong></p>
+  <p><strong style="animation: confetti-celebration 2s ease-in-out infinite;">Let's build something amazing together! 🚀</strong></p>
+  
+  <!-- Final Celebration Confetti -->
+  <div style="position: relative; margin-top: 20px;">
+    <div style="display: inline-block; position: relative;">
+      <span style="font-size: 24px; animation: confetti-celebration 3s ease-in-out infinite;">✨🎊✨</span>
+      <div style="position: absolute; top: -30px; left: 50%; transform: translateX(-50%); width: 100px; height: 50px; pointer-events: none;">
+        <div style="position: absolute; width: 6px; height: 6px; background: #ff6b6b; border-radius: 50%; animation: confetti-fall 3s linear infinite; left: 10%;"></div>
+        <div style="position: absolute; width: 8px; height: 8px; background: #4ecdc4; border-radius: 50%; animation: confetti-fall 3s linear infinite 0.5s; left: 30%;"></div>
+        <div style="position: absolute; width: 5px; height: 5px; background: #f9ca24; border-radius: 50%; animation: confetti-fall 3s linear infinite 1s; left: 50%;"></div>
+        <div style="position: absolute; width: 7px; height: 7px; background: #6c5ce7; border-radius: 50%; animation: confetti-fall 3s linear infinite 1.5s; left: 70%;"></div>
+        <div style="position: absolute; width: 6px; height: 6px; background: #a29bfe; border-radius: 50%; animation: confetti-fall 3s linear infinite 2s; left: 90%;"></div>
+      </div>
+    </div>
+  </div>
 </div>
