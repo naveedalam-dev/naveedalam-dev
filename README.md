@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Naveed+Alam;Full-Stack+Developer+%7C+UI%2FUX+Designer+%7C+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Naveed+Alam; Full-Stack+Developer+%7C+UI%2FUX+Designer+%7C+AI+Enthusiast" alt="Typing SVG" />
 </div>
 
 <h3 align="center">🚀 Crafting Digital Experiences That Matter</h3>
