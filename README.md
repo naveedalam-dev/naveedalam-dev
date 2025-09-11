@@ -137,6 +137,45 @@ I'm a **passionate Full-Stack Developer & UI/UX Designer** with **6+ years of ex
 
 ---
 
+## 🎓 Certifications & Learning
+
+<div align="center">
+
+### Professional Certificates
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**🏆 Coursera Verified Certificates**
+
+[![Certificate 1](https://img.shields.io/badge/📜_Certificate_1-View_Credential-4285f4?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/share/32640bacc7d58243cfb785b087b7fe2a)
+
+[![Certificate 2](https://img.shields.io/badge/📜_Certificate_2-View_Credential-4285f4?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/share/51d1b1053f9ceacf07f21867851bbe8e)
+
+[![Certificate 3](https://img.shields.io/badge/📜_Certificate_3-View_Credential-4285f4?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/share/e1c537c93c0044ede3f72a78a9b131fc)
+
+</td>
+<td align="center" width="50%">
+
+**🎯 Specialized Training**
+
+[![Certificate 4](https://img.shields.io/badge/📜_Certificate_4-View_Credential-4285f4?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/share/6607e693e7484cbdb888af70fc925d6f)
+
+[![Certificate 5](https://img.shields.io/badge/📜_Certificate_5-View_Credential-4285f4?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/share/16336c0d68743ad9583a94effd8d41b8)
+
+[![Certificate 6](https://img.shields.io/badge/📜_Certificate_6-View_Credential-4285f4?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/share/36d55a0031aac4b67bf3b8b03298413b)
+
+</td>
+</tr>
+</table>
+
+<p><em>🎓 Committed to continuous learning and professional development</em></p>
+
+</div>
+
+---
+
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
