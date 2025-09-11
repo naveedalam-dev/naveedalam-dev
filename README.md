@@ -139,38 +139,48 @@ I'm a **passionate Full-Stack Developer & UI/UX Designer** with **6+ years of ex
 
 ## 🎓 Certifications & Learning
 
-<div align="center">
+<div align="center" style="animation: fadeInUp 0.8s ease-out;">
 
 ### Professional Certificates
 
-<table>
+<table style="animation: slideInFromBottom 1s ease-out 0.2s both;">
 <tr>
-<td align="center" width="50%">
+<td align="center" width="50%" style="animation: fadeInLeft 1.2s ease-out 0.4s both;">
 
 **🏆 Coursera Verified Certificates**
 
-[![Certificate 1](https://img.shields.io/badge/📜_Certificate_1-View_Credential-4285f4?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/share/32640bacc7d58243cfb785b087b7fe2a)
+<div style="animation: bounceIn 1.5s ease-out 0.6s both;">
 
-[![Certificate 2](https://img.shields.io/badge/📜_Certificate_2-View_Credential-4285f4?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/share/51d1b1053f9ceacf07f21867851bbe8e)
+[![Certificate 1](https://img.shields.io/badge/📜_Certificate_1-View_Credential-4285f4?style=for-the-badge&logo=coursera&logoColor=white&animation=pulse)](https://coursera.org/share/32640bacc7d58243cfb785b087b7fe2a)
 
-[![Certificate 3](https://img.shields.io/badge/📜_Certificate_3-View_Credential-4285f4?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/share/e1c537c93c0044ede3f72a78a9b131fc)
+[![Certificate 2](https://img.shields.io/badge/📜_Certificate_2-View_Credential-4285f4?style=for-the-badge&logo=coursera&logoColor=white&animation=pulse)](https://coursera.org/share/51d1b1053f9ceacf07f21867851bbe8e)
+
+[![Certificate 3](https://img.shields.io/badge/📜_Certificate_3-View_Credential-4285f4?style=for-the-badge&logo=coursera&logoColor=white&animation=pulse)](https://coursera.org/share/e1c537c93c0044ede3f72a78a9b131fc)
+
+</div>
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="50%" style="animation: fadeInRight 1.2s ease-out 0.4s both;">
 
 **🎯 Specialized Training**
 
-[![Certificate 4](https://img.shields.io/badge/📜_Certificate_4-View_Credential-4285f4?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/share/6607e693e7484cbdb888af70fc925d6f)
+<div style="animation: bounceIn 1.5s ease-out 0.8s both;">
 
-[![Certificate 5](https://img.shields.io/badge/📜_Certificate_5-View_Credential-4285f4?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/share/16336c0d68743ad9583a94effd8d41b8)
+[![Certificate 4](https://img.shields.io/badge/📜_Certificate_4-View_Credential-4285f4?style=for-the-badge&logo=coursera&logoColor=white&animation=pulse)](https://coursera.org/share/6607e693e7484cbdb888af70fc925d6f)
 
-[![Certificate 6](https://img.shields.io/badge/📜_Certificate_6-View_Credential-4285f4?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/share/36d55a0031aac4b67bf3b8b03298413b)
+[![Certificate 5](https://img.shields.io/badge/📜_Certificate_5-View_Credential-4285f4?style=for-the-badge&logo=coursera&logoColor=white&animation=pulse)](https://coursera.org/share/16336c0d68743ad9583a94effd8d41b8)
+
+[![Certificate 6](https://img.shields.io/badge/📜_Certificate_6-View_Credential-4285f4?style=for-the-badge&logo=coursera&logoColor=white&animation=pulse)](https://coursera.org/share/36d55a0031aac4b67bf3b8b03298413b)
+
+</div>
 
 </td>
 </tr>
 </table>
 
-<p><em>🎓 Committed to continuous learning and professional development</em></p>
+<div style="animation: fadeInUp 1.8s ease-out 1s both;">
+  <p><em>🎓 Committed to continuous learning and professional development</em></p>
+</div>
 
 </div>
 
