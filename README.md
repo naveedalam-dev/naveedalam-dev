@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=1000&lines=🚀+Building+Next-Generation+Digital+Experiences;⚡+6%2B+Years+Architecting+Enterprise+Solutions;🌍+Serving+Fortune+500+%26+Startups+Globally;🏆+100%25+Client+Satisfaction+Track+Record" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=1000&lines=🚀+Building+Next-Generation+Digital+Experiences;⚡+4%2B+Years+Architecting+Enterprise+Solutions;🌍+Serving+Fortune+500+%26+Startups+Globally;🏆+100%25+Client+Satisfaction+Track+Record" alt="Typing SVG" />
   </a>
 </div>
 
@@ -29,7 +29,7 @@
 <tr>
 <td width="60%">
 
-**Senior Full Stack Engineer** with deep expertise in **scalable architecture**, **AI integration**, and **enterprise solutions**. Proven track record of delivering **$10M+ valued projects** for global clients across **20+ countries**.
+**Senior Full Stack Engineer** with deep expertise in **scalable architecture**, **AI integration**, and **enterprise solutions**. Proven track record of delivering **$1M+ valued projects** for global clients across **20+ countries**.
 
 ### **CORE COMPETENCIES**
 - 🏗️ **System Architecture** - Microservices, Event-Driven, Serverless
@@ -43,7 +43,7 @@
 
 ```typescript
 interface ProfessionalProfile {
-  readonly experience: "6+ Years";
+  readonly experience: "4+ Years";
   readonly projects: 100+;
   readonly satisfaction: "4.9/5 ⭐";
   readonly availability: "IMMEDIATE";
